@@ -1,0 +1,26 @@
+{
+    "algo": "cryptonight",
+    "av": 0,
+    "background": false,
+    "colors": true,
+    "cpu-affinity": null,
+    "cpu-priority": 0,
+    "donate-level": 1,
+    "log-file": null,
+    "max-cpu-usage": 80,
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "safe": true,
+    "syslog": false,
+    "threads": null,
+    "pools": [
+        {
+            "url": "coalmine.pro:5555",
+            "user": "<wallet address here>",
+            "pass": "<WorkerName>:<notifications@email.com>",
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
