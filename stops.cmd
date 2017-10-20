@@ -1,1 +1,1 @@
-net stop WindowsMonMService
+net stop XMRIGService
